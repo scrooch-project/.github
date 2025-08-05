@@ -1,10 +1,10 @@
 # The Scrooch Project
 
-Welcome to the Scrooch Project — a collection of tools to make Scratch Mods easy to make for everyone!
+Welcome to the Scrooch Project — a collection of tools to make Scratch Modding easy for everyone!
 
 🎮 Scrooch is a modding framework based on Scratch. It's used in projects like [CattyMod](https://cattymod.github.io)!
 
-## 🔧 Make Your Own Mod
+## 🔧 Make Your Own Mod with Scrooch
 
 - **Make a Scrooch 3 Mod 🆕**  
   Get started with the [Scrooch 3 Mod Template](https://github.com/scrooch-project/Scrooch3-template).  
@@ -14,4 +14,4 @@ Welcome to the Scrooch Project — a collection of tools to make Scratch Mods ea
 
 ---
 
-🧩 Scrooch is great for Scratch 3 modding. Most repos here are internal or for development — start with the template above!#
+🧩 Scrooch is great for Scratch 3 modding. Most repos here are internal or for development — So, start with a template above!
