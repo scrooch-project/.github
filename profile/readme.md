@@ -16,5 +16,5 @@ Welcome to the Scrooch Project — a collection of tools to make Scratch Modding
 
 🧩 Scrooch is great for Scratch 3 modding. Most repos here are internal or for development — So, start with a template above!
 
-> Important
+> [!Important]
 > Scrooch is having some downtime while Scrooch moves to scrooch.js.org. It's okay! You can still use the links above to create a Scrooch Mod and use the Scrooch 3 Wiki.
