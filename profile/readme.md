@@ -8,10 +8,8 @@ Welcome to the Scrooch Project — a collection of tools to make Scratch Modding
 
 - **Make a Scrooch 3 Mod 🆕**  
   Get started with the [Scrooch 3 Mod Template](https://github.com/scrooch-project/Scrooch3-template).  
-
-- **Make a Scrooch 2 Mod**  
-  Visit the [Scrooch 2 Mod Creator](https://sites.google.com/view/scrooch-2/create/scratch-2/code)
-
 ---
 
 🧩 Scrooch is great for Scratch 3 modding. Most repos here are internal or for development — So, start with a template above!
+
+🍡 The Dango Icon in the profile picture is from Twemoji.
